@@ -39,10 +39,10 @@ Then open [http://localhost:3000](http://localhost:3000) in your browser to expl
 
 Follow me for more emotional surprise websites and creative dev content:
 
-- 📷 Instagram: [@anujbuilds](https://instagram.com/lunar_vibes23)
-- 🎬 YouTube: [@anujbuilds](https://youtube.com/@lunarvibes)
-- 🐦 Twitter: [@anujbuilds](https://twitter.com/26dsingh)
-- 💼 LinkedIn: [Anuj Chaudhary](https://linkedin.com/in/divyam007)
+- 📷 Instagram: [@lunar-vibes](https://instagram.com/lunar_vibes23)
+- 🎬 YouTube: [@lunar-vibes](https://youtube.com/@lunarvibes)
+- 🐦 Twitter: [@lunar-vibes](https://twitter.com/26dsingh)
+- 💼 LinkedIn: [Lunar_Vibes23](https://linkedin.com/in/divyam007)
 
 ---
 
