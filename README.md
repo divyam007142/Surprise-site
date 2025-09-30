@@ -19,7 +19,7 @@ To run this project locally, follow these steps:
 
 ```bash
 # Clone the repository
-git clone https://github.com/Anuj579/surprise-site.git
+git clone https://github.com/divyam007142/surprise-site.git
 
 # Navigate into the folder
 cd surprise-site
@@ -39,19 +39,19 @@ Then open [http://localhost:3000](http://localhost:3000) in your browser to expl
 
 Follow me for more emotional surprise websites and creative dev content:
 
-- 📷 Instagram: [@anujbuilds](https://instagram.com/anujbuilds)
-- 🎬 YouTube: [@anujbuilds](https://youtube.com/@anujbuilds)
-- 🐦 Twitter: [@anujbuilds](https://twitter.com/anujbuilds)
-- 💼 LinkedIn: [Anuj Chaudhary](https://linkedin.com/in/anujchaudhary549)
+- 📷 Instagram: [@anujbuilds](https://instagram.com/lunar_vibes23)
+- 🎬 YouTube: [@anujbuilds](https://youtube.com/@lunarvibes)
+- 🐦 Twitter: [@anujbuilds](https://twitter.com/26dsingh)
+- 💼 LinkedIn: [Anuj Chaudhary](https://linkedin.com/in/divyam007)
 
 ---
 
 ## ⭐ Support
 
-If you found this project lovely, please consider giving it a ⭐ on [GitHub](https://github.com/Anuj579)  
+If you found this project lovely, please consider giving it a ⭐ on [GitHub](https://github.com/divyam007142)  
 Thank you for being here! 🫶  
-Made with emotions by **Anuj** – _@anujbuilds_
+Made with emotions by **Lunar Vibes** – _@lunar_vibes_
 
-✨ If you'd like to support my work directly, you can donate via UPI:  
-**anujbuilds.wallet@phonepe**  
+✨ If you'd like to support my work directly, you can visit my portfolio:  
+[Lunar-vibes](https://lunar-vibes-portfolio.netlify.app)  
 Even a small contribution helps me keep creating cute, emotional projects 💖
